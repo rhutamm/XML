@@ -1,0 +1,27 @@
+@import "shared/variables";
+@import "shared/bsvariables";
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Raleway', sans-serif;
+}
+
+body{
+    background-color:$myprimary;
+}
+img{
+    transition: all 200ms ease-in-out;
+
+    &:hover{
+        filter: brightness(70%);
+    }
+}
+#museosF{
+    margin: 2rem;
+}
+h1{
+    background-color: $mysecondary;
+    padding: 1rem;
+}

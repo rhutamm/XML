@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<listaMuseos>
+    <museo>
+        <nombre>Museo del Louvre</nombre>
+        <website>https://www.louvre.fr/en/online-tours</website>
+        <localizacion cuidad="Paris" pais="Francia"/>
+        <descripcion>El Museo del Louvre es el museo nacional de Francia consagrado tanto a las bellas artes como a la arqueología y las artes decorativas anteriores al Impresionismo.</descripcion>
+        <año>1793</año>
+    </museo>
+
+    <museo>
+        <nombre>Museo del Palacio de Bellas Artes</nombre>
+        <website>https://inba.gob.mx/sitios/recorridos-virtuales/museo-palacio-bellas-artes/</website>
+        <localizacion cuidad="Ciudad de México" pais="México"/> 
+        <descripcion>El Palacio de Bellas Artes es un recinto cultural ubicado en el Centro Histórico de la Ciudad de México, considerado el más importante en la manifestación de las artes en México y una de las casas de ópera más renombradas del mundo.</descripcion>
+        <año>1934</año>
+    </museo>
+
+    <museo>
+        <nombre>Museo Británico</nombre>
+        <website>https://artsandculture.google.com/partner/the-british-museum</website>
+        <localizacion cuidad="London" pais="Reino Unido"/>
+        <descripcion>El Museo Británico es un museo de la ciudad de Londres, Reino Unido, uno de los museos más importantes y visitados del mundo. Sus colecciones abarcan campos diversos del saber humano, como la historia, la arqueología, la etnografía y el arte.</descripcion>
+        <año>1753</año>
+    </museo>
+
+    <museo>
+        <nombre>Musée d'Orsay</nombre>
+        <website>https://artsandculture.google.com/partner/musee-dorsay-paris</website>
+        <localizacion cuidad="Paris" pais="Francia"/>
+        <descripcion>El Museo de Orsay es una pinacoteca ubicada en París dedicada a las artes plásticas del siglo XIX y, más en concreto, del periodo 1848-1914.</descripcion>
+        <año>1986</año>
+    </museo>
+
+    <museo>
+        <nombre>Museu de Arte de Sao Paulo Assis Chateaubriand</nombre>
+        <website>https://artsandculture.google.com/partner/masp?hl=en</website>
+        <localizacion cuidad="São Paulo" pais="Brasil"/>
+        <descripcion>El Museo de Arte de São Paulo, MASP se encuentra localizado en la Avenida Paulista, en la ciudad de São Paulo, en Brasil. fue diseñado por la importante arquitecta Lina Bo Bardi el año 1958.</descripcion>
+        <año>1947</año>
+    </museo>
+</listaMuseos>
